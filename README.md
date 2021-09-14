@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Lalo!](https://lalovene.netlify.app/) 
 
 - 📘 I’m a third year CS student.
 - 🌱 I’m currently learning AWS and Swift.
