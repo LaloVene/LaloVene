@@ -1,7 +1,7 @@
 ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Lalo!](https://lalovene.netlify.app/) 
 
 - 📘 I’m a third year CS student.
-- 🌱 I’m currently learning AWS and Swift.
+- 🌱 I’m currently learning AWS and React Native.
 - 💬 Ask me about anything.
 - 📫 Connect with me: [<img alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 
