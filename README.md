@@ -3,7 +3,7 @@
 - 📘 I’m a third year CS student.
 - 🌱 I’m currently learning AWS and React Native.
 - 💬 Ask me about anything.
-- 📫 Connect with me: [<img alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+- 📫 Connect with me: [<img alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 ### Languages and Tools:
 
