@@ -50,9 +50,10 @@
 <br />
 <br />
 
-<img align="left" alt="lalovene's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lalovene&show_icons=true&theme=dracula" />
-
-[linkedin]: https://linkedin.com/in/eduardo-venegas
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 
 <!--
 **LaloVene/LaloVene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
